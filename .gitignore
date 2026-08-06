@@ -15,7 +15,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-
+drafts/
 # OS
 .DS_Store
 Thumbs.db
