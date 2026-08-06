@@ -21,6 +21,7 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 | 08/23/2024 | [List of Python packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-python-pkglist-08232024.md) | Complete inventory of Python packages available in ChatGPT's sandbox |
 | 08/23/2024 | [List of Linux packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-pkglist-08232024.md) | Full list of Linux system packages installed in the sandbox |
 | 04/29/2024 | [ChatGPT: Memory and how it works](./Articles/chatgpt-bio-tool-and-memory/chatgpt-bio-and-memory.md) | How OpenAI's "bio" tool persists memory across conversations |
+| 02/04/2026 | [Your Own Key, Their Telemetry: What Claude Code phones home in BYOK mode](./Articles/claude-code-byok-telemetry/README.md) | Traffic analysis of Claude Code telemetry in Bring-Your-Own-Key mode, and the env vars / settings.json to disable it |
 
 ## Disclaimer
 
