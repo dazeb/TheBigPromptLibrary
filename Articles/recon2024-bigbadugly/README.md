@@ -1,5 +1,7 @@
 # A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly
 
+*By **Elias Bachaalany** — [@0xeb](https://github.com/0xeb) on GitHub · [Binary Wizards](https://www.youtube.com/@binary-wizards) on YouTube · [@eliasbchlny](https://x.com/eliasbchlny) on X*
+
 - [Download the presentation slides](A%20Tale%20of%20Reverse%20Engineering%201001%20GPTs.pdf)
 - Video presentation: [https://www.youtube.com/watch?v=5TFn13QOpU4](https://www.youtube.com/watch?v=5TFn13QOpU4)
 - Low quality (not recommended): [REcon.cx 2024 talk link](https://cfp.recon.cx/recon2024/talk/YVEGK9/)
