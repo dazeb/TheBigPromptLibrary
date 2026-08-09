@@ -8,6 +8,7 @@ Articles by **Elias Bachaalany** — [@0xeb](https://github.com/0xeb) on GitHub 
 - 06/29/2024 - [A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly](./recon2024-bigbadugly/README.md)
 - 08/23/2024 - [List of Python packages installed in ChatGPT code interpreter sandbox](./chatgpt-sandbox/chatgpt-code-python-pkglist-08232024.md)
 - 08/23/2024 - [List of Linux packages installed in ChatGPT code interpreter sandbox](./chatgpt-sandbox/chatgpt-code-pkglist-08232024.md)
+- 08/06/2026 - [Full system inventory of the ChatGPT Work VM](./chatgpt-sandbox/chatgpt-work-vm-env-08062026.md)
 
 # Claude Code
 

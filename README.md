@@ -17,12 +17,13 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 
 | Date | Article | Description |
 |------|---------|-------------|
-| 06/29/2024 | [A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly](./Articles/recon2024-bigbadugly/README.md) | REcon 2024 talk — reverse engineering OpenAI's custom GPTs, security findings, and ethical implications |
-| 08/23/2024 | [List of Python packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-python-pkglist-08232024.md) | Complete inventory of Python packages available in ChatGPT's sandbox |
-| 08/23/2024 | [List of Linux packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-pkglist-08232024.md) | Full list of Linux system packages installed in the sandbox |
-| 04/29/2024 | [ChatGPT: Memory and how it works](./Articles/chatgpt-bio-tool-and-memory/chatgpt-bio-and-memory.md) | How OpenAI's "bio" tool persists memory across conversations |
-| 02/04/2026 | [Your Own Key, Their Telemetry: What Claude Code phones home in BYOK mode](./Articles/claude-code-byok-telemetry/README.md) | Traffic analysis of Claude Code telemetry in Bring-Your-Own-Key mode, and the env vars / settings.json to disable it |
 | 08/09/2026 | [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./Articles/claude-code-tools/README.md) | A guide to Claude Code's tools and when to invoke them by name, with a full typed parameter reference |
+| 08/06/2026 | [Full system inventory of the ChatGPT Work VM](./Articles/chatgpt-sandbox/chatgpt-work-vm-env-08062026.md) | CPU, memory, disk, limits, and installed toolchains of the Linux VM behind ChatGPT Work |
+| 02/04/2026 | [Your Own Key, Their Telemetry: What Claude Code phones home in BYOK mode](./Articles/claude-code-byok-telemetry/README.md) | Traffic analysis of Claude Code telemetry in Bring-Your-Own-Key mode, and the env vars / settings.json to disable it |
+| 08/23/2024 | [List of Python packages installed in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-python-pkglist-08232024.md) | Complete inventory of Python packages available in ChatGPT's sandbox |
+| 08/23/2024 | [List of Linux packages installed in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-pkglist-08232024.md) | Full list of Linux system packages installed in the sandbox |
+| 06/29/2024 | [A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly](./Articles/recon2024-bigbadugly/README.md) | REcon 2024 talk — reverse engineering OpenAI's custom GPTs, security findings, and ethical implications |
+| 04/29/2024 | [ChatGPT: Memory and how it works](./Articles/chatgpt-bio-tool-and-memory/chatgpt-bio-and-memory.md) | How OpenAI's "bio" tool persists memory across conversations |
 
 ## Disclaimer
 
