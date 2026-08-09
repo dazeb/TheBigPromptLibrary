@@ -12,3 +12,4 @@ Articles by **Elias Bachaalany** — [@0xeb](https://github.com/0xeb) on GitHub 
 # Claude Code
 
 - 02/04/2026 - [Your Own Key, Their Telemetry: What Claude Code phones home in BYOK mode](./claude-code-byok-telemetry/README.md)
+- 08/09/2026 - [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./claude-code-tools/README.md)
