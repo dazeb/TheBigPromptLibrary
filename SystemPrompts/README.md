@@ -187,6 +187,12 @@ See: [https://quillbot.com/](https://quillbot.com/)
 
 - [Quillbot AI - 11/06/2025](./Quillbot/20251106-Quillbot.md)
 
+## Notion
+
+See: [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
+
+- [Notion AI - agent context - 03/22/2026](./Notion/notion-ai_20260322/README.md) - 101 files of module instructions and tool declarations; root system prompt not included
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)

@@ -77,7 +77,7 @@ Built something on TBPL? [Tell us about it](https://github.com/0xeb/TheBigPrompt
 
 ## Contribution
 
-Feel free to contribute system prompts or custom instructions to any LLM system.
+Feel free to contribute system prompts or custom instructions to any LLM system. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) first — prompts must be contributed **verbatim** (no summaries), with a provenance header and an index entry.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=0xeb/TheBigPromptLibrary&type=Date)](https://star-history.com/#0xeb/TheBigPromptLibrary&Date)
 
