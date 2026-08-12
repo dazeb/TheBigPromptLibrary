@@ -11,6 +11,7 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 - [Jailbreak Prompts](./Jailbreak/README.md)
 - [Instructions protections](./Security/GPT-Protections/README.md)
 - [How to get the system prompts or instructions](#how-to-get-the-system-prompts-or-instructions)
+- [Who uses TBPL](#who-uses-tbpl)
 - [Learning resources](#learning-resources-and-sites)
 
 ## Articles
@@ -53,7 +54,9 @@ Resources:
 - [Understanding and protecting GPTs against instruction leakage](https://www.youtube.com/watch?v=O8h_j9jJFjA)
 - [GPT-Analyst: A GPT assistant used to study and reverse engineer GPTs](https://www.youtube.com/watch?v=3KqW_-vV6d4)
 
-## References and citations
+## Who uses TBPL
+
+### Research
 
 On [ArXiv](https://search.arxiv.org/?in=&query=thebigpromptlibrary):
 
@@ -61,6 +64,16 @@ On [ArXiv](https://search.arxiv.org/?in=&query=thebigpromptlibrary):
 - [PRSA: Prompt Stealing Attacks against Real-World Prompt Services](https://arxiv.org/pdf/2402.19200)
 - [PromptPex: Automatic Test Generation for Language Model Prompts](https://arxiv.org/pdf/2503.05070v1)
 - [Reflexive Prompt Engineering - A Framework for Responsible Prompt Engineering and Interaction Design](https://arxiv.org/pdf/2504.16204)
+
+### Projects built on TBPL
+
+*Listed projects build something with TBPL content and link back to this repository. Mirrors, scrapes, and re-hosted copies of the library aren't listed.*
+
+| Project | How it uses TBPL |
+|---------|------------------|
+| [Prompt Optimizer](https://github.com/Thomaszhou22/prompt-optimizer-skill) | 115 TBPL system prompts as production-quality templates in a 3,344-template auto-optimization skill |
+
+Built something on TBPL? [Tell us about it](https://github.com/0xeb/TheBigPromptLibrary/issues/new?template=used-by.yml).
 
 ## Contribution
 

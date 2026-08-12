@@ -1,0 +1,51 @@
+name: Used TBPL in a project
+description: Tell us about a project, tool, or paper built on The Big Prompt Library
+title: "[Used by] <project name>"
+labels: ["used-by"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for building on TBPL! Accepted submissions get listed under
+        [Who uses TBPL](https://github.com/0xeb/TheBigPromptLibrary#who-uses-tbpl) in the README.
+
+        **What gets listed:** projects that build something with TBPL content and link back to this repository.
+        **What doesn't:** mirrors, scrapes, and re-hosted copies of the library.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      placeholder: Prompt Optimizer
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Project URL
+      description: Repository, site, or paper link.
+      placeholder: https://github.com/user/project
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage
+    attributes:
+      label: How does it use TBPL?
+      description: >
+        One or two sentences. Which parts of the library (system prompts, custom instructions,
+        jailbreaks, articles, tools), roughly how many, and what your project does with them.
+      placeholder: 115 TBPL system prompts are used as templates in a 3,344-template auto-optimization skill.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: credit
+    attributes:
+      label: Attribution
+      options:
+        - label: My project links back to TheBigPromptLibrary.
+          required: true
+        - label: My project builds on TBPL content rather than re-hosting or mirroring the library.
+          required: true
